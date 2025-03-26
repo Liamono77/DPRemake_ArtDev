@@ -1,0 +1,5 @@
+# blender backup file
+*.blend1
+
+# substance painter lock file
+*.spp.painter_lock
