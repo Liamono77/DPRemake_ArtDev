@@ -1,0 +1,5 @@
+Please note that this asset was made as part of a school project, and was intended for in-engine animation via Control Rig
+
+We're definitely not using Control Rig anymore for direct character animation, so consider giving its Blender rig a touch-up later.
+
+It's not exactly a hero asset though, so use discretion with how much effort goes into it. 
