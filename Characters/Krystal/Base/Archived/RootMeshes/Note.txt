@@ -1,0 +1,1 @@
+This .zip file contains the last surviving .blend file that contains most or all of the meshes that were used to generate HDStal's meshes from modifiers. If one of these meshes is needed that isn't already in the Linkable file, consider unzipping this and checking for them. 
